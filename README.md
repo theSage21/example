@@ -1,3 +1,7 @@
+Trying to run example from [actix-web-static-files](https://github.com/kilork/actix-web-static-files#use-case-1-static-resources-folder)
+
+## Error traceback
+
 ```
    Compiling xmpl v0.1.0 (/home/arjoonn/temp/xmpl)
 error[E0308]: mismatched types
